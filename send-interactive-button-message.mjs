@@ -1,10 +1,7 @@
 import axios from "axios";
+import { sendReply } from "./send-reply.mjs";
+import { sampleResources } from "./data/resources.mjs";
 
-const buttonTitles = [
-  "Health & Lifestyle",
-  "Work Challenges",
-  "Study Overwhelm",
-];
 const defaultBody = [
   {
     text: "How can we help ?",
@@ -39,6 +36,10 @@ export const sendInteractiveMessageButton = async (
 
     if (resources[0]) {
       console.log(resources);
+      for (let i = 0; i < resources.length; i++) {
+        const resource = sampleResources[i];
+        await sendReply(phone_number_id, whatsapp_token, to, resource);
+      }
     } else {
       let data = JSON.stringify({
         messaging_product: "whatsapp",

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const sendReply = async (
+export const sendContactReply = async (
   phone_number_id,
   whatsapp_token,
   to,
@@ -9,7 +9,7 @@ export const sendReply = async (
   try {
     let data = JSON.stringify({
       messaging_product: "whatsapp",
-      to: "PHONE_NUMBER",
+      to: to,
       type: "contacts",
       contacts: [
         {
