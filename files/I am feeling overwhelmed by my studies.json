@@ -1,0 +1,304 @@
+{
+  "pillar": "I am feeling overwhelmed by my studies",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Feeling swamped by studies is something many students experience. Let's pinpoint the main source of your stress.",
+      "text": "What aspect of your studies is overwhelming you the most?",
+      "options": [
+        {
+          "text": "Course workload and assignments",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Exam preparation and performance",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Balancing studies with other responsibilities",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Understanding or interest in course material",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "A heavy workload can certainly stretch your limits. Let's explore how it's impacting your routine.",
+      "text": "How does your course workload affect your daily routine?",
+      "options": [
+        {
+          "text": "Constantly feeling behind on assignments",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Struggling to understand assignments",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "No time for personal activities",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Feeling burnt out",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Exam challenges are tough but surmountable. Identifying your hurdles is the first step towards overcoming them.",
+      "text": "What challenges do you face with exams?",
+      "options": [
+        {
+          "text": "Test anxiety",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Difficulty studying or retaining information",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Time management during exams",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Performing poorly despite studying",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Juggling studies and life's other duties is no small feat. Let's look at what's keeping the scales tipped.",
+      "text": "What are the main obstacles in balancing your studies and other responsibilities?",
+      "options": [
+        {
+          "text": "Managing part-time work or internships",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Family or personal obligations",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Lack of time for relaxation and social life",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Feeling constantly tired or stressed",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "Connecting with course material is crucial for academic success. Let's delve into the difficulties you're facing.",
+      "text": "What difficulties are you experiencing with your course material?",
+      "options": [
+        {
+          "text": "Lack of interest or motivation",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Difficult concepts or topics",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Inadequate resources or support",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Language barriers or comprehension issues",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Feeling overwhelmed is a sign it's time for some changes. Let's see how frequent this feeling occurs.",
+      "text": "How often do you feel overwhelmed by your coursework?",
+      "options": [
+        {
+          "text": "Almost always",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Frequently",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Sometimes",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Rarely",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Improving exam performance starts with finding the right strategies. Let's explore what you've tried.",
+      "text": "What strategies have you tried to improve your exam performance?",
+      "options": [
+        {
+          "text": "Standard study methods (e.g., reading, notes)",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Group study or tutoring",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Using educational technology or apps",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "I haven’t found effective methods yet",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Seeking a better balance is key to your well-being. Let's identify supports that could ease the juggle.",
+      "text": "What support would help you manage your study-life balance better?",
+      "options": [
+        {
+          "text": "Time management advice",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Stress reduction techniques",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Guidance on prioritizing tasks",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Help with personal or family responsibilities",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Enhancing your learning experience can reignite your academic passion. Let's find out how.",
+      "text": "How can your learning experience be improved?",
+      "options": [
+        {
+          "text": "More engaging or interactive material",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Additional academic support or resources",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Guidance from instructors or mentors",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Better study environments or groups",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "The right resources can make managing coursework feel more manageable. Let's look at options.",
+      "text": "What resources would help you manage your coursework effectively?",
+      "options": [
+        {
+          "text": "Organizational tools or planners",
+          "resources": ["Academic planners", "Time management apps"]
+        },
+        {
+          "text": "Study techniques and workshops",
+          "resources": ["Study skills seminars", "Online courses on effective studying"]
+        },
+        {
+          "text": "Counseling for academic stress",
+          "resources": ["Student counseling services", "Stress management workshops"]
+        },
+        {
+          "text": "Peer support or study groups",
+          "resources": ["Study group programs", "Peer mentorship opportunities"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Finding effective study methods can transform your exam prep. Let's consider some supportive strategies.",
+      "text": "What kind of support would enhance your exam preparation?",
+      "options": [
+        {
+          "text": "Personalized tutoring",
+          "resources": ["Tutoring services", "Academic coaching"]
+        },
+        {
+          "text": "Exam strategy and preparation courses",
+          "resources": ["Exam preparation workshops", "Strategy sessions"]
+        },
+        {
+          "text": "Techniques to manage test anxiety",
+          "resources": ["Anxiety management courses", "Wellness and mindfulness programs"]
+        },
+        {
+          "text": "Educational resources and materials",
+          "resources": ["Educational resource centers", "Online study materials"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "You've made strides in balancing your studies and life. Let's explore what strategies have been effective for you.",
+      "text": "What strategies have you found effective for balancing your studies with other aspects of life?",
+      "options": [
+        {
+          "text": "Setting clear boundaries and schedules",
+          "resources": ["Work-life balance seminars", "Time management tools"]
+        },
+        {
+          "text": "Seeking support from family and friends",
+          "resources": ["Family counseling", "Support group meetings"]
+        },
+        {
+          "text": "Using productivity and organizational tools",
+          "resources": ["Productivity apps", "Organizational workshops"]
+        },
+        {
+          "text": "I'm still struggling to find a balance",
+          "resources": ["Balancing life and studies counseling", "Personal coaching services"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "A supportive learning environment is key to academic success. Let's identify what additional support could look like for you.",
+      "text": "What additional support would enhance your learning experience?",
+      "options": [
+        {
+          "text": "Interactive learning methods",
+          "resources": ["Interactive course materials", "Educational technology tools"]
+        },
+        {
+          "text": "Personalized academic support",
+          "resources": ["One-on-one academic counseling", "Personalized learning plans"]
+        },
+        {
+          "text": "Mentoring and guidance from instructors",
+          "resources": ["Mentorship programs", "Instructor office hours"]
+        },
+        {
+          "text": "Improved study environments",
+          "resources": ["Campus study spaces", "Virtual study communities"]
+        }
+      ]
+    }
+  ]
+}

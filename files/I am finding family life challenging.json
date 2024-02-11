@@ -1,0 +1,304 @@
+{
+  "pillar": "I am finding family life challenging",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "It sounds like you're navigating some tricky waters at home. Let's see how we can help.",
+      "text": "What aspect of family life are you finding most challenging?",
+      "options": [
+        {
+          "text": "Communication with family members",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Managing family conflicts",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Balancing family and personal life",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Dealing with a specific family situation",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "Communication hurdles are common, but there are ways to improve them. Let's find out more.",
+      "text": "How does this communication issue usually manifest?",
+      "options": [
+        {
+          "text": "Misunderstandings or disagreements",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Feeling unheard or ignored",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Difficulty expressing feelings",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Other",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Family conflicts can really weigh on you. Identifying what triggers them is a positive step forward.",
+      "text": "What triggers most conflicts in your family?",
+      "options": [
+        {
+          "text": "Financial matters",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Household responsibilities",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Personal values or beliefs",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Other",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Achieving a balance isn't easy, but it's essential for your peace of mind. Let's explore this together.",
+      "text": "What aspect of balancing is most difficult for you?",
+      "options": [
+        {
+          "text": "Time management",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Personal space and independence",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Guilt of not fulfilling family expectations",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Other",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "You're dealing with a lot right now. Whatever the situation, we're here to support you.",
+      "text": "Can you specify the family situation you're dealing with?",
+      "options": [
+        {
+          "text": "Divorce or separation",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Bereavement or loss",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Caregiving for a family member",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Other",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Understanding how often communication challenges occur can help us find the best way to address them.",
+      "text": "How often do these communication challenges occur?",
+      "options": [
+        {
+          "text": "Frequently",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Occasionally",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Rarely",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "In specific situations only",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Your approach to resolving conflicts says a lot about what you need for harmony at home.",
+      "text": "How do you usually respond to these conflicts?",
+      "options": [
+        {
+          "text": "I try to avoid them",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "I confront them directly",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "I feel overwhelmed and don't know how to respond",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "I seek help from friends or other family members",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "The impact of imbalance on your life is significant. Recognizing it is the first step towards change.",
+      "text": "How does this imbalance affect your daily life?",
+      "options": [
+        {
+          "text": "It affects my work/studies",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "It impacts my personal health",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "It strains my other relationships",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "It leads to constant stress or anxiety",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "How long you've been in this situation can affect the type of support that will be most helpful for you.",
+      "text": "How long have you been dealing with this situation?",
+      "options": [
+        {
+          "text": "Recently (less than 6 months)",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "For a while now (6 months to a year)",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Long-term (more than a year)",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "It's an ongoing situation",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "The way these challenges affect your family life is crucial in understanding how to move forward.",
+      "text": "How do these challenges impact your family life?",
+      "options": [
+        {
+          "text": "Causes tension or unhappiness",
+          "resources": ["Family counseling services", "Communication workshops"]
+        },
+        {
+          "text": "Leads to isolation or withdrawal",
+          "resources": ["Individual therapy", "Family therapy sessions"]
+        },
+        {
+          "text": "Creates misunderstandings and conflicts",
+          "resources": ["Conflict resolution workshops", "Family counseling services"]
+        },
+        {
+          "text": "I'm not sure about the impact",
+          "resources": ["General family support services", "Consultation with a therapist"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Understanding the severity of these conflicts helps us tailor the support you need for your family dynamics.",
+      "text": "How severe are these conflicts affecting your family dynamics?",
+      "options": [
+        {
+          "text": "Significantly disrupting family life",
+          "resources": ["Family therapy sessions", "Conflict resolution counseling"]
+        },
+        {
+          "text": "Causing occasional distress",
+          "resources": ["Stress management counseling", "Family workshops"]
+        },
+        {
+          "text": "Manageable but concerning",
+          "resources": ["Family counseling services", "Communication workshops"]
+        },
+        {
+          "text": "Not sure about the severity",
+          "resources": ["General family support services", "Consultation with a therapist"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "Finding the right support can make all the difference in achieving a healthier work-life balance.",
+      "text": "What support do you think would help you in balancing better?",
+      "options": [
+        {
+          "text": "Guidance on time management",
+          "resources": ["Time management workshops", "Personal counseling"]
+        },
+        {
+          "text": "Advice on setting boundaries",
+          "resources": ["Personal development workshops", "Individual therapy"]
+        },
+        {
+          "text": "Help in dealing with guilt",
+          "resources": ["Stress management counseling", "Family expectation management workshops"]
+        },
+        {
+          "text": "General tips on work-life balance",
+          "resources": ["Work-life balance programs", "Lifestyle counseling"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "It's important to find the kind of support that resonates with you as you navigate this situation.",
+      "text": "What kind of support are you currently seeking for this situation?",
+      "options": [
+        {
+          "text": "Emotional support and counseling",
+          "resources": ["Grief counseling", "Divorce support groups"]
+        },
+        {
+          "text": "Practical advice and guidance",
+          "resources": ["Legal counseling", "Financial advice services"]
+        },
+        {
+          "text": "Support groups or community help",
+          "resources": ["Community support groups", "Online forums and resources"]
+        },
+        {
+          "text": "I'm not sure what I need",
+          "resources": ["General family support services", "Consultation with a therapist"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "MentalWellnessResources": {
+    "FamilyLifeChallenges": [
+      {
+        "OrganizationName": "Waad Therapy Center",
+        "Services": "Specializes in psychological treatment for mental disorders, addiction, and offers family counseling.",
+        "PhoneNumber": "Not provided",
+        "WebAddress": "https://www.waad.sa"
+      },
+      {
+        "OrganizationName": "ACT Center for Psychological Counseling (ACT Care)",
+        "Services": "Offers a range of psychological services, including family therapy, cognitive behavioral therapy, and child-parent psychotherapy.",
+        "PhoneNumber": "Not provided",
+        "WebAddress": "https://actcare.com.sa"
+      },
+      {
+        "OrganizationName": "Ehtiwa Center",
+        "Services": "Specialized in family counseling and adult psychiatry.",
+        "PhoneNumber": "+966 920031303",
+        "WebAddress": "Information not available"
+      },
+      {
+        "OrganizationName": "Motmaena Medical Center - At Taawun Branch 1",
+        "Services": "Provides psychological services including family counseling and adult psychiatry.",
+        "PhoneNumber": "+966 920031303",
+        "WebAddress": "Information not available"
+      },
+      {
+        "OrganizationName": "Ghufran Psychological Center",
+        "Services": "Offers specialized services in family counseling, pediatric psychiatry, and other psychological care.",
+        "PhoneNumber": "+966 920031303",
+        "WebAddress": "Information not available"
+      }
+    ],
+    "FinancialMattersStruggles": [
+      {
+        "OrganizationName": "Aljabr Financing Company",
+        "Services": "Offers financial services and advice in Dammam, Saudi Arabia.",
+        "PhoneNumber": "+7942",
+        "WebAddress": "Not available"
+      },
+      {
+        "OrganizationName": "Deloitte Saudi Arabia - Financial Advisory",
+        "Services": "Provides a range of financial advisory services including M&A, restructurings, raising capital, and forensic investigations.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www2.deloitte.com"
+      },
+      {
+        "OrganizationName": "FTI Consulting",
+        "Services": "Provides financial consulting services to corporate enterprises, government entities, and financial institutions in Riyadh.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www.fticonsulting.com"
+      },
+      {
+        "OrganizationName": "Financial Coordination Center",
+        "Services": "Offers advisory services in financial coordination with various international entities.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "ccfinance.org"
+      },
+      {
+        "OrganizationName": "AFMC",
+        "Services": "Provides a range of financial services and consulting in Riyadh.",
+        "PhoneNumber": "+966 11 2011119",
+        "WebAddress": "afmc.com.sa"
+      }
+    ],
+    "FacingChallengesAtWork": [
+      {
+        "OrganizationName": "MantraCare",
+        "Services": "Provides employee assistance programs (EAP) and mental health services for companies in Saudi Arabia.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www.mantracare.org"
+      },
+      {
+        "OrganizationName": "Deloitte Saudi Arabia - Financial Advisory",
+        "Services": "Offers financial advisory and employee engagement solutions, including mental health support in the workplace.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www2.deloitte.com"
+      },
+      {
+        "OrganizationName": "National Center for Mental Health Promotion",
+        "Services": "Provides psychological and mental counseling, including services for workplace stress and mental health.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www.my.gov.sa"
+      },
+      {
+        "OrganizationName": "FTI Consulting",
+        "Services": "Offers financial consulting and employee engagement programs with mental health support for corporate enterprises and institutions.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www.fticonsulting.com"
+      },
+      {
+        "OrganizationName": "TherapyRoute.com",
+        "Services": "Connects individuals with therapists for various issues, including workplace stress and mental health challenges.",
+        "PhoneNumber": "Not available",
+        "WebAddress": "www.therapyroute.com"
+      }
+    ], 
+    "FeelingOverwhelmedByStudies": [
+      {
+        "OrganizationName": "Student Counseling Services at KAUST",
+        "Services": "Provides free prevention, intervention, and psycho-educational services including individual and marital counseling, psychological assessments, educational workshops, community outreach programs, crisis support, and referral services.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://hwc.kaust.edu.sa"
+      },
+      {
+        "OrganizationName": "Shaqra University Counseling Center",
+        "Services": "Counseling center at Shaqra University, likely offering mental health support and counseling for students.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "Not Available"
+      },
+      {
+        "OrganizationName": "King Saud University Health Sciences Colleges",
+        "Services": "Supports mental well-being of students, likely offering counseling and psychological support services.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "Not Available"
+      },
+      {
+        "OrganizationName": "BetterHelp",
+        "Services": "E-counseling platform providing accessible and affordable counseling with accredited mental health professionals globally.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://www.betterhelp.com"
+      },
+      {
+        "OrganizationName": "Primary Health Care Centers",
+        "Services": "First point of contact for mental health issues, offering referrals to psychiatrists, psychologists, and social workers. Operated by the Saudi Ministry of Health.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "Not Available"
+      }
+    ],
+    "DealingWithHealthAndLifestyleConcerns": [
+      {
+        "OrganizationName": "Saudi Arabian Wellness Association",
+        "Services": "Promotes and develops the wellness sector in the region, supporting health goals of Vision 2030, providing advice and studies to raise the professionalism of the wellness sector.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://saudiwellness.org"
+      },
+      {
+        "OrganizationName": "MantraCare",
+        "Services": "Offers corporate health programs including Employee Assistance Program (EAP), Employee Wellness, fitness classes, health screenings, and smoking cessation programs.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://mantracare.org/employee-wellness/corporate-health/employee-wellness-saudi-arabia/"
+      },
+      {
+        "OrganizationName": "Delta Wellness",
+        "Services": "Health and wellness company offering a range of services to promote employee wellness with tailored programs according to organizational needs.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "Not Available"
+      },
+      {
+        "OrganizationName": "Align",
+        "Services": "Leading provider of employee wellness solutions in Saudi Arabia, offering comprehensive programs to improve health and well-being of employees.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "Not Available"
+      },
+      {
+        "OrganizationName": "TechBehemoths",
+        "Services": "Lists top health and wellness companies in Saudi Arabia, offering a range of health-related services and solutions.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://techbehemoths.com"
+      }
+    ],
+    "FindingItHardToSeekMentalHealthSupport": [
+      {
+        "OrganizationName": "International Medical Center",
+        "Services": "A private medical clinic providing a range of services including mental healthcare, with services in English.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.imc.med.sa"
+      },
+      {
+        "OrganizationName": "Dr. Sulaiman Al Habib Medical Group",
+        "Services": "A private medical group offering a variety of services, including mental healthcare.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.hmg.com.sa"
+      },
+      {
+        "OrganizationName": "Saudi Psychological Association",
+        "Services": "Represents psychologists and promotes mental health in Saudi Arabia, providing resources for mental health professionals.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.saudi-psychology.com"
+      },
+      {
+        "OrganizationName": "National Family Safety Program",
+        "Services": "A government initiative providing support and education to families affected by mental health issues.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.nfsp.sa"
+      },
+      {
+        "OrganizationName": "Johns Hopkins Aramco Healthcare (JHAH)",
+        "Services": "Joint venture between Saudi Aramco and Johns Hopkins Medicine providing mental healthcare including clinical psychology evaluations and social work services.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "Not Available"
+      }
+    ],
+    "StrugglingToExpressMyTrueSelf": [
+      {
+        "OrganizationName": "Al Nahda",
+        "Services": "Involved in various social and mental health initiatives, potentially including support for personality issues.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://www.alnahda.org"
+      }
+      {
+        "OrganizationName": "Saudi Psychological Association",
+        "Services": "Represents psychologists and promotes mental health in Saudi Arabia, providing resources for mental health professionals.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.saudi-psychology.com"
+      },
+      {
+        "OrganizationName": "National Family Safety Program",
+        "Services": "A government initiative providing support and education to families affected by mental health issues.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.nfsp.sa"
+      }
+    ],
+    "FeelingThePressureOfSocialAndCulturalNorms": [
+      {
+        "OrganizationName": "National Center for the Development of the Non-Profit Sector (NCNP)",
+        "Services": "Aims to regulate the non-profit sector and empower it to achieve a deeper social and economic impact as part of Vision 2030. Focuses on social entrepreneurship and societal change.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://www.ncnp.gov.sa"
+      },
+      {
+        "OrganizationName": "empowerME Initiative",
+        "Services": "Part of the Atlantic Council, the empowerME Initiative focuses on women's economic empowerment in Saudi Arabia. It addresses societal norms and structures impacting women in business.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://www.atlanticcouncil.org/program/empowerme/"
+      },
+      {
+        "OrganizationName": "International Medical Center",
+        "Services": "A private medical clinic providing a range of services including mental healthcare, with services in English.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.imc.med.sa"
+      },
+      {
+        "OrganizationName": "Saudi Psychological Association",
+        "Services": "Represents psychologists and promotes mental health in Saudi Arabia, providing resources for mental health professionals.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.saudi-psychology.com"
+      },
+      {
+        "OrganizationName": "National Family Safety Program",
+        "Services": "A government initiative providing support and education to families affected by mental health issues.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "www.nfsp.sa"
+      }
+      {
+        "OrganizationName": "Al Nahda",
+        "Services": "Involved in various social and mental health initiatives, potentially including support for personality issues.",
+        "PhoneNumber": "Not Available",
+        "WebAddress": "https://www.alnahda.org"
+      }
+    ],
+
+  }
+}

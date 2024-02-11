@@ -1,0 +1,304 @@
+{
+  "pillar": "I am dealing with health and lifestyle concerns",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Your health and lifestyle are crucial to your overall well-being. Let's identify your main concerns.",
+      "text": "What are your primary health and lifestyle concerns?",
+      "options": [
+        {
+          "text": "Physical health issues",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Mental health and wellbeing",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Diet and nutrition",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Exercise and physical activity",
+          "nextQuestionId": "q5"
+        } 
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "Facing physical health challenges can be tough. Identifying them helps us find the right support for you.",
+      "text": "What type of physical health issues are you facing?",
+      "options": [
+        {
+          "text": "Chronic illness or condition",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Acute illnesses or injuries",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "General health maintenance concerns",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Other",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Mental health is just as important as physical health. Let's talk about what you're experiencing.",
+      "text": "What aspects of mental health are you struggling with?",
+      "options": [
+        {
+          "text": "Stress and anxiety",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Depression or mood disorders",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Sleep issues",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Other mental health concerns",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Nutrition plays a big role in how we feel each day. Pinpointing challenges is the first step to eating healthier.",
+      "text": "What challenges are you facing regarding diet and nutrition?",
+      "options": [
+        {
+          "text": "Healthy meal planning",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Managing dietary restrictions or conditions",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Weight management",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Improving overall nutrition",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "Exercise is vital for a healthy lifestyle. Identifying obstacles is the first step towards an active life.",
+      "text": "What are your main challenges with exercise and physical activity?",
+      "options": [
+        {
+          "text": "Finding time and motivation",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Physical limitations or disabilities",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Lack of knowledge or resources",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Setting and achieving fitness goals",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Physical health issues can significantly impact your day-to-day life. Understanding this impact helps us find solutions.",
+      "text": "How do these physical health issues affect your daily life?",
+      "options": [
+        {
+          "text": "Limiting daily activities",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Causing pain or discomfort",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Impacting mental health and mood",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Affecting work or personal responsibilities",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Seeking support for mental health is a brave and important step. Let's find the right kind of help for you.",
+      "text": "What kind of support are you seeking for your mental health?",
+      "options": [
+        {
+          "text": "Professional counseling or therapy",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Stress reduction techniques",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Support groups or community resources",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Self-help tools and resources",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Improving your diet and nutrition is a key step towards better health. Let's explore resources that can assist you.",
+      "text": "What resources would assist you in improving your diet and nutrition?",
+      "options": [
+        {
+          "text": "Nutritional counseling or dietitian services",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Meal planning and preparation tools",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Education on healthy eating",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Support for specific dietary needs",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Overcoming exercise challenges is about finding the right approach for you. Let's see what would help you get moving.",
+      "text": "What would help you overcome your exercise challenges?",
+      "options": [
+        {
+          "text": "Personalized fitness coaching or training",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Accessible exercise programs or facilities",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Information and guidance on exercise",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Motivation and goal-setting strategies",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "Navigating healthcare can be complex. Identifying the type of support you need is crucial for effective care.",
+      "text": "What kind of healthcare or medical support do you need?",
+      "options": [
+        {
+          "text": "Regular medical check-ups and monitoring",
+          "resources": ["General healthcare services", "Routine medical check-up facilities"]
+        },
+        {
+          "text": "Specialist care for specific conditions",
+          "resources": ["Specialized medical care", "Referral to healthcare specialists"]
+        },
+        {
+          "text": "Pain management and treatment",
+          "resources": ["Pain management clinics", "Physical therapy services"]
+        },
+        {
+          "text": "Support for lifestyle changes",
+          "resources": ["Lifestyle modification programs", "Health coaching services"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Mental health support comes in many forms. Finding the right one for you can make all the difference.",
+      "text": "How often do you feel you need mental health support?",
+      "options": [
+        {
+          "text": "On a regular, ongoing basis",
+          "resources": ["Continuous counseling services", "Long-term therapy options"]
+        },
+        {
+          "text": "During specific times or situations",
+          "resources": ["Situational therapy services", "Stress management programs"]
+        },
+        {
+          "text": "Occasionally, as issues arise",
+          "resources": ["On-demand counseling services", "Short-term therapy sessions"]
+        },
+        {
+          "text": "I'm not sure what I need",
+          "resources": ["Mental health assessment services", "General mental health support"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "Setting goals for your diet and nutrition can guide you towards healthier choices. Let's define those goals.",
+      "text": "What are your goals regarding diet and nutrition?",
+      "options": [
+        {
+          "text": "Improving overall health",
+          "resources": ["General nutrition counseling", "Healthy eating workshops"]
+        },
+        {
+          "text": "Weight management or loss",
+          "resources": ["Weight management programs", "Dietitian services"]
+        },
+        {
+          "text": "Addressing specific health conditions",
+          "resources": ["Dietary management for health conditions", "Nutritionist consultations"]
+        },
+        {
+          "text": "Learning more about healthy eating",
+          "resources": ["Nutritional education classes", "Online nutrition resources"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "Your commitment to improving physical activity is commendable. Let's find the support that matches your commitment level.",
+      "text": "How committed are you to improving your physical activity?",
+      "options": [
+        {
+          "text": "Very committed and looking for guidance",
+          "resources": ["Fitness coaching", "Structured exercise programs"]
+        },
+        {
+          "text": "Somewhat committed, but need motivation",
+          "resources": ["Motivational fitness groups", "Activity tracking tools"]
+        },
+        {
+          "text": "Interested, but with physical limitations",
+          "resources": ["Adaptive fitness programs", "Physical therapy and exercise"]
+        },
+        {
+          "text": "Exploring options for getting started",
+          "resources": ["Introductory exercise classes", "Beginner fitness resources"]
+        }
+      ]
+    }
+  ]
+}

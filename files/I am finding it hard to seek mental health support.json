@@ -1,0 +1,212 @@
+{
+  "pillar": "I am finding it hard to seek mental health support",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Taking the first step towards seeking mental health support is often the hardest. Let's explore what's holding you back.",
+      "text": "What main factors make it hard for you to seek mental health support?",
+      "options": [
+        {
+          "text": "Stigma or fear of judgment",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Lack of information or awareness",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Financial constraints",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Uncertainty about where to start",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "Stigma and fear of judgment can be significant barriers. Acknowledging this is a vital step forward.",
+      "text": "How does stigma or fear of judgment affect your willingness to seek help?",
+      "options": [
+        {
+          "text": "Concerned about others' opinions",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Worried about professional repercussions",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Feeling ashamed or embarrassed",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Fear of being misunderstood",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "A lack of information can make the journey to mental health support seem daunting. Identifying your needs can help guide you.",
+      "text": "What kind of information do you feel is lacking in your search for support?",
+      "options": [
+        {
+          "text": "Understanding different types of mental health issues",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Knowing what kind of help is available",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Finding reliable and trustworthy resources",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Information on how to access services",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Financial constraints should not be a barrier to mental health support. Understanding your options can open new doors.",
+      "text": "How do financial constraints impact your ability to seek mental health support?",
+      "options": [
+        {
+          "text": "Cannot afford private therapy or counseling",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Lack of insurance coverage",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "High cost of medication or treatment",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Unsure about cost-effective options",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "Starting the process of seeking mental health support is a significant step. Clarifying your uncertainties can help ease the journey.",
+      "text": "What uncertainties do you have about starting the process of seeking mental health support?",
+      "options": [
+        {
+          "text": "Not sure how to find the right therapist or counselor",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Unclear about the process of therapy or counseling",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Concerns about the effectiveness of therapy",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Worries about opening up to a stranger",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Finding a supportive environment that respects your privacy and dignity is crucial. Let's consider what could make this easier.",
+      "text": "What kind of support would make you more comfortable in seeking help?",
+      "options": [
+        {
+          "text": "Anonymity and confidentiality assurances",
+          "resources": ["Confidential counseling services", "Anonymous support groups"]
+        },
+        {
+          "text": "Education on the normalcy of mental health issues",
+          "resources": ["Mental health awareness programs", "Educational resources on stigma reduction"]
+        },
+        {
+          "text": "Hearing others' positive experiences",
+          "resources": ["Testimonials from others who sought help", "Success stories in mental health recovery"]
+        },
+        {
+          "text": "Support from friends or family",
+          "resources": ["Family counseling options", "Guides on how to talk to loved ones about mental health"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Accessing the right information can empower you to take the first steps. Let's find the resources that will help illuminate your path.",
+      "text": "What type of informational resources would be most helpful for you?",
+      "options": [
+        {
+          "text": "Detailed guides on different mental health conditions",
+          "resources": ["Online mental health libraries", "Printed guides and brochures"]
+        },
+        {
+          "text": "Directories of mental health services and professionals",
+          "resources": ["Online directories of mental health services", "Referral services for mental health professionals"]
+        },
+        {
+          "text": "Resources to verify the credibility of information",
+          "resources": ["Guides on evaluating mental health resources", "Lists of accredited mental health organizations"]
+        },
+        {
+          "text": "Workshops or seminars on accessing mental health care",
+          "resources": ["Community workshops on mental health", "Seminars on navigating mental health care"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Exploring financial support and cost-effective options is essential for accessing care without added stress. Let's look at what's available.",
+      "text": "What financial support or cost-effective options would assist you in accessing mental health services?",
+      "options": [
+        {
+          "text": "Information on affordable therapy options",
+          "resources": ["Guides to affordable mental health services", "Sliding scale therapy options"]
+        },
+        {
+          "text": "Assistance programs for medication and treatment",
+          "resources": ["Medication assistance programs", "Low-cost treatment options"]
+        },
+        {
+          "text": "Insurance advice and support",
+          "resources": ["Insurance navigation assistance", "Information on mental health insurance coverage"]
+        },
+        {
+          "text": "Community mental health services",
+          "resources": ["Community mental health centers", "Free or low-cost mental health clinics"]
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Alleviating uncertainties and fears about seeking mental health support is an important step. Let's explore how we can ease this for you.",
+      "text": "Which of the following would help alleviate your uncertainties about seeking mental health support?",
+      "options": [
+        {
+          "text": "Guidance on choosing the right mental health professional",
+          "resources": ["Checklists for selecting a therapist", "Guides on different types of mental health professionals"]
+        },
+        {
+          "text": "Understanding the therapy process",
+          "resources": ["Informational resources on what to expect in therapy", "Introductory sessions or consultations"]
+        },
+        {
+          "text": "Evidence on the effectiveness of therapy",
+          "resources": ["Research articles on therapy outcomes", "Statistics on mental health treatment success rates"]
+        },
+        {
+          "text": "Support in overcoming fears of opening up",
+          "resources": ["Resources on building trust with therapists", "Workshops on expressing oneself in therapy"]
+        }
+      ]
+    }
+  ]
+}

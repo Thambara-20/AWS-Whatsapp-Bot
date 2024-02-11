@@ -1,0 +1,304 @@
+{
+  "pillar": "I am struggling with financial matters",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Financial hurdles can feel overwhelming, but identifying them is the first step towards solutions.",
+      "text": "What is your primary financial concern at the moment?",
+      "options": [
+        {
+          "text": "Managing debts or loans",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Insufficient income or savings",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Budgeting and managing expenses",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Financial planning for the future",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "Debt can be a heavy burden, but together we can find strategies to lighten the load.",
+      "text": "How is managing debt affecting your daily life?",
+      "options": [
+        {
+          "text": "Constantly worried about debt",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Difficulty meeting monthly obligations",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Impact on credit score or future borrowing",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Debt affecting personal and family life",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Navigating income and savings challenges is tough, but you're taking a positive step by seeking help.",
+      "text": "Which best describes your income or savings challenge?",
+      "options": [
+        {
+          "text": "Job loss or reduced income",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Lack of sufficient savings",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Unexpected expenses or emergencies",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Difficulty in increasing income",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Budgeting challenges are common, yet they're an important aspect of financial health. Let's tackle them together.",
+      "text": "What do you find most challenging about budgeting?",
+      "options": [
+        {
+          "text": "Tracking everyday expenses",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Controlling impulsive spending",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Saving money consistently",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Prioritizing expenses",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "It's wise to think about the future. Understanding your concerns helps us provide the best guidance.",
+      "text": "What aspect of financial planning are you concerned about?",
+      "options": [
+        {
+          "text": "Retirement planning",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Investment and wealth growth",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Education funding for children",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Insurance and risk management",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Understanding how stress from debt affects you can guide us to the most effective solutions.",
+      "text": "How frequently do you face stress due to debt?",
+      "options": [
+        {
+          "text": "Daily",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Weekly",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Monthly",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Occasionally",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Facing income or savings challenges for a long time can be disheartening, but there's always a way forward.",
+      "text": "How long have you been facing these income/savings challenges?",
+      "options": [
+        {
+          "text": "Less than 6 months",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "6 months to a year",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Over a year",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "It’s a long-term ongoing issue",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Exploring the tools and methods you've tried will help us find new strategies that might work better for you.",
+      "text": "What tools or methods have you tried for budgeting?",
+      "options": [
+        {
+          "text": "Mobile apps or online tools",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Manual tracking (notebooks, spreadsheets)",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Professional financial advice",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "I haven’t tried any tools or methods",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Whether you have a plan or are looking to start one, getting your financial planning in order is a smart move.",
+      "text": "Do you currently have a financial plan or advisor?",
+      "options": [
+        {
+          "text": "Yes, I have a financial plan/advisor",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "No, but I am looking for one",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "No, and I am not sure I need one",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "I am unsure where to start",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "Finding the right kind of support can transform how you manage debt. Let's explore your options.",
+      "text": "What kind of support do you feel would best help you manage debt?",
+      "options": [
+        {
+          "text": "Debt counseling or consolidation",
+          "resources": ["Debt management services", "Financial counseling"]
+        },
+        {
+          "text": "Creating a repayment plan",
+          "resources": ["Financial planning services", "Budgeting workshops"]
+        },
+        {
+          "text": "Negotiating with creditors",
+          "resources": ["Legal financial advice", "Debt negotiation services"]
+        },
+        {
+          "text": "Learning about financial management",
+          "resources": ["Financial literacy courses", "Online financial education resources"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Improving your financial situation is key to peace of mind. We're here to find the support that suits you best.",
+      "text": "What kind of support would help you improve your income/savings situation?",
+      "options": [
+        {
+          "text": "Finding new or additional sources of income",
+          "resources": ["Job counseling", "Entrepreneurship workshops"]
+        },
+        {
+          "text": "Learning to save and invest wisely",
+          "resources": ["Savings and investment courses", "Financial advisory services"]
+        },
+        {
+          "text": "Emergency fund and safety net building",
+          "resources": ["Financial planning for emergencies", "Savings strategy consulting"]
+        },
+        {
+          "text": "Managing and reducing expenses",
+          "resources": ["Expense management workshops", "Budgeting tools and resources"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "Let's pinpoint the hurdles you're facing with budgeting to better tailor our advice and resources.",
+      "text": "What challenges do you face with your current budgeting methods?",
+      "options": [
+        {
+          "text": "Sticking to the budget",
+          "resources": ["Budget discipline workshops", "Personal financial coaching"]
+        },
+        {
+          "text": "Understanding financial jargon",
+          "resources": ["Financial literacy classes", "Simple budgeting tools"]
+        },
+        {
+          "text": "Finding a method that works for me",
+          "resources": ["Budgeting method exploration sessions", "Personal financial advisory"]
+        },
+        {
+          "text": "I haven’t identified the challenges yet",
+          "resources": ["General financial planning services", "Introduction to budgeting courses"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "Setting goals is the cornerstone of financial planning. Let's clarify your goals to guide our next steps.",
+      "text": "What are your main goals in seeking financial planning or advice?",
+      "options": [
+        {
+          "text": "Ensuring financial security and stability",
+          "resources": ["Comprehensive financial planning services", "Long-term financial security workshops"]
+        },
+        {
+          "text": "Growing wealth or investments",
+          "resources": ["Investment advisory services", "Wealth growth seminars"]
+        },
+        {
+          "text": "Preparing for major life events",
+          "resources": ["Life event financial planning", "Goal-oriented financial advice"]
+        },
+        {
+          "text": "Understanding financial basics",
+          "resources": ["Basic financial education courses", "Financial planning for beginners"]
+        }
+      ]
+    }
+  ]
+}

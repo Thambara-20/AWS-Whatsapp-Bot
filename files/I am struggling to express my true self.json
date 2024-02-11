@@ -1,0 +1,304 @@
+{
+  "pillar": "I am struggling to express my true self",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Expressing your true self is fundamental to your well-being. Let's identify what aspects you find most challenging.",
+      "text": "What aspect of self-expression do you find most challenging?",
+      "options": [
+        {
+          "text": "Communicating my thoughts and feelings",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Showing my true personality",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Expressing myself in social situations",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Being confident in my identity",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "Communicating thoughts and feelings authentically is a brave step. Let's explore the barriers you're facing.",
+      "text": "What difficulties do you face in communicating your thoughts and feelings?",
+      "options": [
+        {
+          "text": "Fear of being judged or misunderstood",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Struggling to find the right words",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Feeling anxious or nervous",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Worrying about negative reactions",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Showing your true personality is about embracing who you are. Let's discuss what's holding you back.",
+      "text": "What holds you back from showing your true personality?",
+      "options": [
+        {
+          "text": "Concerns about acceptance",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Unsure about how to express myself",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Feeling different or out of place",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Pressure to conform to others' expectations",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Social situations can be daunting. Identifying your challenges can help us find ways to navigate them.",
+      "text": "What challenges do you encounter in social situations?",
+      "options": [
+        {
+          "text": "Social anxiety or shyness",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Difficulty in initiating conversations",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Feeling overshadowed or ignored",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Managing group dynamics",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "Understanding and accepting your identity is key to self-expression. Let's delve into the aspects you're struggling with.",
+      "text": "What aspects of your identity do you struggle with?",
+      "options": [
+        {
+          "text": "Understanding my own values and beliefs",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Accepting aspects of my identity",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Feeling different from those around me",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Pressure to fit a certain image or role",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Frequency of communication challenges can vary. Understanding when they occur can help us address them effectively.",
+      "text": "How often do these communication challenges occur?",
+      "options": [
+        {
+          "text": "In most conversations",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Only in certain situations",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "When talking about personal topics",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "With certain people",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Being authentic is a journey towards self-discovery. Let's identify the support that would help you embrace your true self.",
+      "text": "What support or resources do you think would help you in being more authentic?",
+      "options": [
+        {
+          "text": "Building self-confidence",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Learning self-expression skills",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Finding supportive communities",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Exploring identity and personal values",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Improving your ability to navigate social situations can significantly enhance your life. Let's consider what assistance would benefit you.",
+      "text": "What kind of assistance would help you in social situations?",
+      "options": [
+        {
+          "text": "Overcoming social anxiety",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Improving conversation skills",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Building a social support network",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Developing assertiveness",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Identity struggles can have a broad impact on your life. Recognizing this impact is crucial for finding pathways to acceptance.",
+      "text": "How do these identity struggles impact your daily life?",
+      "options": [
+        {
+          "text": "Affecting personal relationships",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Impacting mental health",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Influencing career or education choices",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Limiting participation in social activities",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "Effective communication is a skill that can be developed. Identifying helpful resources is a step towards expressing yourself more freely.",
+      "text": "What resources would help you communicate more effectively?",
+      "options": [
+        {
+          "text": "Communication skills workshops",
+          "resources": ["Public speaking courses", "Effective communication training"]
+        },
+        {
+          "text": "Personal development coaching",
+          "resources": ["Life coaching", "Personal growth seminars"]
+        },
+        {
+          "text": "Therapy for anxiety or confidence issues",
+          "resources": ["Cognitive Behavioral Therapy", "Anxiety management counseling"]
+        },
+        {
+          "text": "Support groups for sharing experiences",
+          "resources": ["Peer support groups", "Community conversation circles"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Supporting your journey to authenticity involves building upon your strengths and embracing your uniqueness. Let's explore strategies to support you.",
+      "text": "What strategies would best support your journey to authenticity?",
+      "options": [
+        {
+          "text": "Self-esteem building activities",
+          "resources": ["Self-esteem workshops", "Confidence building exercises"]
+        },
+        {
+          "text": "Exploring creative self-expression",
+          "resources": ["Art therapy", "Creative expression classes"]
+        },
+        {
+          "text": "Guidance on personal values and identity",
+          "resources": ["Values clarification workshops", "Identity coaching"]
+        },
+        {
+          "text": "Finding role models or mentors",
+          "resources": ["Mentorship programs", "Inspirational speaker events"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "Social interactions are an integral part of life. Discovering tools and methods to enhance these interactions can lead to more fulfilling relationships.",
+      "text": "What tools or methods do you believe would enhance your social interactions?",
+      "options": [
+        {
+          "text": "Social skills training",
+          "resources": ["Social interaction workshops", "Networking skill courses"]
+        },
+        {
+          "text": "Mindfulness and relaxation techniques",
+          "resources": ["Mindfulness training", "Stress reduction classes"]
+        },
+        {
+          "text": "Joining clubs or groups with similar interests",
+          "resources": ["Hobby groups", "Community clubs"]
+        },
+        {
+          "text": "Professional counseling or therapy",
+          "resources": ["Social anxiety therapy", "Counseling services"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "Exploring and affirming your identity is a deeply personal journey. Identifying the right kind of support can help you live more authentically.",
+      "text": "What kind of support do you need to explore and affirm your identity?",
+      "options": [
+        {
+          "text": "Professional counseling for identity issues",
+          "resources": ["Identity counseling", "Psychological services"]
+        },
+        {
+          "text": "Educational resources on identity and diversity",
+          "resources": ["Diversity and inclusion workshops", "Educational materials"]
+        },
+        {
+          "text": "Supportive communities or groups",
+          "resources": ["Identity-based support groups", "Community forums"]
+        },
+        {
+          "text": "Personal development and exploration activities",
+          "resources": ["Self-discovery retreats", "Personal exploration workshops"]
+        }
+      ]
+    }
+  ]
+}

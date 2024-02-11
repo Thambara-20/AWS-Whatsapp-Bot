@@ -1,0 +1,304 @@
+{
+  "pillar": "I am feeling the pressure of social and cultural norms",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Navigating social and cultural pressures can be challenging. Let's identify the specific pressures you're facing.",
+      "text": "What type of social or cultural pressures are you experiencing?",
+      "options": [
+        {
+          "text": "Pressure to conform to societal expectations",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Challenges with traditional cultural norms",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Difficulties related to gender roles or identity",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Expectations regarding career or education",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "Societal expectations can deeply affect our choices and sense of self. Reflecting on these effects can help us find ways to cope.",
+      "text": "How do societal expectations affect your daily life?",
+      "options": [
+        {
+          "text": "Feeling unable to pursue personal interests",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Strain in personal relationships",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Impact on mental health and well-being",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Pressure to maintain a certain image",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Cultural norms shape our lives in many ways. Understanding the challenges you face can guide us toward supportive resources.",
+      "text": "What cultural norms do you find most challenging?",
+      "options": [
+        {
+          "text": "Expectations around family roles",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Traditional views on relationships or marriage",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Cultural beliefs impacting personal freedom",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Pressure to adhere to specific practices",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Gender roles and identity can significantly impact how we express ourselves and interact with the world. Let's explore your experiences.",
+      "text": "How do gender roles or identity expectations impact you?",
+      "options": [
+        {
+          "text": "Struggling with gender identity or expression",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Challenges with non-traditional gender roles",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Feeling misunderstood or misrepresented",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Pressure to conform to gender stereotypes",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "Career and education paths are often influenced by external expectations. Identifying these pressures can help us address them.",
+      "text": "What pressures are you facing regarding career or education?",
+      "options": [
+        {
+          "text": "Expectations to succeed in a certain field",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Cultural emphasis on specific career paths",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Balancing personal interests with family expectations",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Pressure to achieve at a certain level",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Coping with societal pressures requires resilience and sometimes, a change in perspective. Let's consider how you deal with these expectations.",
+      "text": "How do you cope with societal pressures in your life?",
+      "options": [
+        {
+          "text": "Trying to meet expectations",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Seeking support from friends or loved ones",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Ignoring or resisting the pressures",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Feeling uncertain or conflicted",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Navigating cultural norms while staying true to oneself can be a delicate balance. Identifying supportive resources can be empowering.",
+      "text": "What kind of support would help you navigate cultural norms?",
+      "options": [
+        {
+          "text": "Cultural sensitivity counseling",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Support groups with similar experiences",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Guidance on balancing cultural and personal values",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Resources to understand and cope with cultural expectations",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Addressing gender identity or role challenges requires courage and support. Exploring resources tailored to these experiences can provide relief and understanding.",
+      "text": "What resources would assist you in dealing with gender identity or role challenges?",
+      "options": [
+        {
+          "text": "Counseling or therapy for gender identity",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Support communities or groups",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Educational resources on gender diversity",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Advice on expressing your gender identity",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Finding a path that aligns with your personal goals amid external pressures is crucial for fulfillment. Let's explore what would support you in this journey.",
+      "text": "What would help you in managing career or educational pressures?",
+      "options": [
+        {
+          "text": "Career counseling focused on personal interests",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Mentoring or coaching for career development",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Support in setting personal career or educational goals",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Resources for dealing with family expectations",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "Societal expectations can be overwhelming. Identifying resources that bolster your confidence and autonomy can be transformative.",
+      "text": "What kind of resources or support would help you better cope with societal expectations?",
+      "options": [
+        {
+          "text": "Self-help tools for building confidence",
+          "resources": ["Confidence-building workshops", "Self-esteem online courses"]
+        },
+        {
+          "text": "Counseling or therapy for societal pressure",
+          "resources": ["Mental health counseling", "Stress management therapy"]
+        },
+        {
+          "text": "Connecting with others facing similar pressures",
+          "resources": ["Peer support groups", "Community forums"]
+        },
+        {
+          "text": "Learning how to set and maintain boundaries",
+          "resources": ["Boundary-setting workshops", "Personal development seminars"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Balancing cultural expectations with personal authenticity is a journey. Exploring resources that validate your experiences can foster greater understanding and self-acceptance.",
+      "text": "What strategies or resources do you think would assist in balancing cultural and personal values?",
+      "options": [
+        {
+          "text": "Guidance on integrating cultural and personal identities",
+          "resources": ["Cultural identity workshops", "Personal values counseling"]
+        },
+        {
+          "text": "Support in communicating with family about personal choices",
+          "resources": ["Family therapy", "Communication skill-building courses"]
+        },
+        {
+          "text": "Resources on understanding and respecting cultural differences",
+          "resources": ["Cultural diversity education", "Intercultural communication courses"]
+        },
+        {
+          "text": "Finding a community of like-minded individuals",
+          "resources": ["Cultural support groups", "Community networks"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "Exploring and affirming your gender identity is a personal and profound journey. Identifying supportive resources can help you navigate this path with confidence.",
+      "text": "How can you best express and explore your gender identity or roles?",
+      "options": [
+        {
+          "text": "Through personal exploration and self-acceptance",
+          "resources": ["Gender identity exploration groups", "Self-acceptance workshops"]
+        },
+        {
+          "text": "With professional help and counseling",
+          "resources": ["Gender counseling services", "Professional therapy for gender issues"]
+        },
+        {
+          "text": "By connecting with others who have similar experiences",
+          "resources": ["Gender identity support groups", "Community forums"]
+        },
+        {
+          "text": "Through education and learning more about gender diversity",
+          "resources": ["Gender diversity courses", "Educational materials on gender"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "Aligning your career or education with your personal aspirations amidst external pressures requires clarity and support. Let's identify resources to help you navigate this alignment.",
+      "text": "What support would help you align your career or education with your personal goals?",
+      "options": [
+        {
+          "text": "Assistance in identifying personal goals and interests",
+          "resources": ["Goal-setting workshops", "Personal interest assessments"]
+        },
+        {
+          "text": "Help in communicating your goals to family or others",
+          "resources": ["Communication skills training", "Family counseling for career choices"]
+        },
+        {
+          "text": "Exploring alternative career or education paths",
+          "resources": ["Career exploration programs", "Educational guidance counseling"]
+        },
+        {
+          "text": "Resources for managing external expectations",
+          "resources": ["Stress management for career pressure", "Coping strategy workshops"]
+        }
+      ]
+    }
+  ]
+}

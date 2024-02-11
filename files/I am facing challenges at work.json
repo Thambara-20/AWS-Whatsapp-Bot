@@ -1,0 +1,304 @@
+{
+  "pillar": "I am facing challenges at work",
+  "questions": [
+    {
+      "id": "q1",
+      "preMessage": "Work challenges can really impact your well-being. Let's narrow down what you're experiencing.",
+      "text": "What type of challenges are you facing at work?",
+      "options": [
+        {
+          "text": "Workload and time management",
+          "nextQuestionId": "q2"
+        },
+        {
+          "text": "Relationships with colleagues or managers",
+          "nextQuestionId": "q3"
+        },
+        {
+          "text": "Career growth and development",
+          "nextQuestionId": "q4"
+        },
+        {
+          "text": "Workplace environment or culture",
+          "nextQuestionId": "q5"
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "preMessage": "A heavy workload can be daunting. Understanding its impact can help us find a way to manage it.",
+      "text": "How is your workload affecting your daily life?",
+      "options": [
+        {
+          "text": "Consistently working long hours",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Feeling overwhelmed and stressed",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Struggling to meet deadlines",
+          "nextQuestionId": "q6"
+        },
+        {
+          "text": "Difficulty in prioritizing tasks",
+          "nextQuestionId": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "preMessage": "Navigating relationships at work can be complex. Identifying the issues is the first step towards improving them.",
+      "text": "What issues are you experiencing with colleagues or managers?",
+      "options": [
+        {
+          "text": "Communication problems",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Conflict or disagreements",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Feeling undervalued or not recognized",
+          "nextQuestionId": "q7"
+        },
+        {
+          "text": "Harassment or discrimination",
+          "nextQuestionId": "q7"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "preMessage": "Thinking about career growth is important. Let's explore what concerns you have in this area.",
+      "text": "What aspects of career growth and development are you concerned about?",
+      "options": [
+        {
+          "text": "Lack of advancement opportunities",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Need for additional skills or training",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Uncertainty about career path",
+          "nextQuestionId": "q8"
+        },
+        {
+          "text": "Feeling stuck in the current role",
+          "nextQuestionId": "q8"
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "preMessage": "The environment and culture at your workplace play a big role in your job satisfaction. Let's get into the details.",
+      "text": "What challenges do you face with your workplace environment or culture?",
+      "options": [
+        {
+          "text": "High-stress or competitive atmosphere",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Lack of support or resources",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Issues with work-life balance",
+          "nextQuestionId": "q9"
+        },
+        {
+          "text": "Ethical or moral concerns",
+          "nextQuestionId": "q9"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "preMessage": "Stress from work can affect all aspects of life. Recognizing how often you feel this way is key to addressing it.",
+      "text": "How often do you feel stressed or overwhelmed by your workload?",
+      "options": [
+        {
+          "text": "Every day",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Several times a week",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Occasionally",
+          "nextQuestionId": "q10"
+        },
+        {
+          "text": "Rarely",
+          "nextQuestionId": "q10"
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "preMessage": "Work issues can impact more than just your job performance. Understanding this impact can help us find solutions.",
+      "text": "How do these issues impact your work performance or satisfaction?",
+      "options": [
+        {
+          "text": "Significantly affecting performance",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Causing dissatisfaction and unhappiness",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "Creating tension or anxiety at work",
+          "nextQuestionId": "q11"
+        },
+        {
+          "text": "I'm managing, but it's challenging",
+          "nextQuestionId": "q11"
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "preMessage": "Career development is a journey. Pinpointing the support you need can help guide your path forward.",
+      "text": "What support or resources do you think would aid your career development?",
+      "options": [
+        {
+          "text": "Mentorship or coaching",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Training and skill development",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Career counseling",
+          "nextQuestionId": "q12"
+        },
+        {
+          "text": "Networking opportunities",
+          "nextQuestionId": "q12"
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "preMessage": "Creating a positive workplace is crucial for everyone's well-being. Let's think about what changes could make a difference.",
+      "text": "What changes would improve your workplace environment?",
+      "options": [
+        {
+          "text": "Better work-life balance",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "More support and recognition",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "A healthier, less competitive culture",
+          "nextQuestionId": "q13"
+        },
+        {
+          "text": "Ethical improvements",
+          "nextQuestionId": "q13"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "preMessage": "Managing workload effectively can significantly reduce stress. Let's explore what might help you.",
+      "text": "What kind of help would you find beneficial for managing your workload?",
+      "options": [
+        {
+          "text": "Time management training",
+          "resources": ["Workshop on time management", "Online time management courses"]
+        },
+        {
+          "text": "Delegation and teamwork strategies",
+          "resources": ["Teamwork development programs", "Leadership and delegation workshops"]
+        },
+        {
+          "text": "Stress management techniques",
+          "resources": ["Stress management courses", "Workplace wellness programs"]
+        },
+        {
+          "text": "Professional advice or counseling",
+          "resources": ["Career counseling", "Professional coaching services"]
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "preMessage": "Improving work relationships can enhance your job satisfaction and performance. Let's find the right resources for you.",
+      "text": "What resources could help improve your relationships at work?",
+      "options": [
+        {
+          "text": "Communication skills training",
+          "resources": ["Communication workshops", "Interpersonal skills courses"]
+        },
+        {
+          "text": "Conflict resolution support",
+          "resources": ["Conflict management seminars", "Mediation services"]
+        },
+        {
+          "text": "Workplace counseling or therapy",
+          "resources": ["Employee assistance programs", "Workplace mental health support"]
+        },
+        {
+          "text": "Guidance on workplace rights and policies",
+          "resources": ["Legal advice on workplace issues", "Human resources support services"]
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "preMessage": "Commitment to your career development is a significant step. Identifying your level of commitment helps us tailor the support.",
+      "text": "How committed are you to pursuing these career development opportunities?",
+      "options": [
+        {
+          "text": "Very committed and ready to start",
+          "resources": ["Career development programs", "Professional training courses"]
+        },
+        {
+          "text": "Somewhat committed, but need more information",
+          "resources": ["Career counseling sessions", "Informational workshops"]
+        },
+        {
+          "text": "Uncertain about my commitment",
+          "resources": ["Exploratory career coaching", "Motivational seminars"]
+        },
+        {
+          "text": "Looking for easy, accessible options",
+          "resources": ["Online career resources", "Short-term training opportunities"]
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "preMessage": "Taking steps to address workplace issues is brave. Reflecting on your actions so far can help guide us to next steps.",
+      "text": "What steps have you taken to address these workplace environment issues?",
+      "options": [
+        {
+          "text": "Discussed with management or HR",
+          "resources": ["Workplace mediation services", "HR policy consultation"]
+        },
+        {
+          "text": "Sought advice from peers or mentors",
+          "resources": ["Peer support groups", "Mentorship programs"]
+        },
+        {
+          "text": "Looking for external resources or guidance",
+          "resources": ["External workplace advisory services", "Professional networking groups"]
+        },
+        {
+          "text": "Haven’t taken any steps yet",
+          "resources": ["Initial counseling on workplace issues", "Guidance on approaching workplace challenges"]
+        }
+      ]
+    }
+  ]
+}
