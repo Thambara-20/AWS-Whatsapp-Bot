@@ -24,19 +24,20 @@ const defaultBody = [{
 ]
 export const sendInteractiveMessageButton = async (phone_number_id, whatsapp_token, to, bodyText, body=defaultBody) => {
     try {
-        console.log(body)
         const options = body[0].options;
         const nextQuestionIds = options.map(option => option.nextQuestionId);
         const texts = options.map(option => option.text);
-
-        
-            
+          
         let data = JSON.stringify({
             "messaging_product": "whatsapp",
             "to": to,
             "type": "interactive",
             "interactive": {
                 "type": "button",
+               "header": {
+                    "type": "text",
+                    "text": body[0]["preMessage"] || "Hi"
+                },
                 "body": {
                   "text": body[0]["text"],
                 },

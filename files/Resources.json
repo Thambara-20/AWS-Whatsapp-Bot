@@ -198,7 +198,7 @@
         "Services": "Involved in various social and mental health initiatives, potentially including support for personality issues.",
         "PhoneNumber": "Not Available",
         "WebAddress": "https://www.alnahda.org"
-      }
+      },
       {
         "OrganizationName": "Saudi Psychological Association",
         "Services": "Represents psychologists and promotes mental health in Saudi Arabia, providing resources for mental health professionals.",
@@ -242,14 +242,13 @@
         "Services": "A government initiative providing support and education to families affected by mental health issues.",
         "PhoneNumber": "Not Available",
         "WebAddress": "www.nfsp.sa"
-      }
+      },
       {
         "OrganizationName": "Al Nahda",
         "Services": "Involved in various social and mental health initiatives, potentially including support for personality issues.",
         "PhoneNumber": "Not Available",
         "WebAddress": "https://www.alnahda.org"
       }
-    ],
-
+    ]
   }
 }

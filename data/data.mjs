@@ -4,7 +4,7 @@ export const data = {
   "questions": [
     {
       "id": "HEALTH_&_LIFESTYLE-q1",
-      "preMessage": "Your health and lifestyle are crucial to your well-being. Let's identify your concerns.",
+      "PreMessage": "Well-being matters. Identify concerns.",
       "text": "What are your primary health and lifestyle concerns?",
       "options": [
         {
@@ -23,7 +23,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q2",
-      "preMessage": "Facing physical health challenges can be tough. Identifying them helps us find the right support.",
+      "preMessage":  "Facing health challenges? Find support.",
       "text": "What type of physical health issues are you facing?",
       "options": [
         {
@@ -42,7 +42,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q3",
-      "preMessage": "Mental health is crucial. Let's talk about what you're experiencing.",
+      "preMessage":  "Mental health is crucial. Let's talk.",
       "text": "What aspects of mental health are you struggling with?",
       "options": [
         {
@@ -61,7 +61,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q4",
-      "preMessage": "Nutrition plays a role. Let's pinpoint challenges for healthier choices.",
+      "preMessage": "Nutrition matters. Pinpoint challenges.",
       "text": "What challenges are you facing regarding diet and nutrition?",
       "options": [
         {
@@ -80,7 +80,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q5",
-      "preMessage": "Exercise is vital. Identifying obstacles is the first step to an active life.",
+      "preMessage":  "Exercise is vital. Identify obstacles.",
       "text": "What are your main challenges with exercise and physical activity?",
       "options": [
         {
@@ -99,7 +99,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q6",
-      "preMessage": "Physical health issues impact daily life. Understanding this helps us find solutions.",
+      "preMessage": "Physical health impacts life. Find solutions.",
       "text": "How do these physical health issues affect your daily life?",
       "options": [
         {
@@ -118,7 +118,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q7",
-      "preMessage": "Seeking support for mental health is brave. Let's find the right kind of help for you.",
+      "preMessage": "Brave step! Find the right help.",
       "text": "What kind of support are you seeking for your mental health?",
       "options": [
         {
@@ -137,7 +137,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q8",
-      "preMessage": "Improving diet is key. Let's explore resources that can assist you.",
+      "preMessage":"Improve diet. Explore assistance.",
       "text": "What resources would assist you in improving your diet and nutrition?",
       "options": [
         {
@@ -156,7 +156,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q9",
-      "preMessage": "Overcoming exercise challenges is about finding the right approach for you. Let's see what would help you get moving.",
+      "preMessage": "Overcome challenges. Get moving.",
        "text": "What would help you overcome your exercise challenges?",
       "options": [
         {
@@ -175,7 +175,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q10",
-      "preMessage": "Navigating healthcare is complex. Identifying the type of support you need is crucial for effective care.",
+      "preMessage": "Healthcare is complex. Identify needs.",
       "text": "What kind of healthcare or medical support do you need?",
       "options": [
         {
@@ -194,7 +194,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q11",
-      "preMessage": "Mental health support comes in many forms. Finding the right one for you can make all the difference.",
+      "preMessage": "Mental health support matters.",
       "text": "How often do you feel you need mental health support?",
       "options": [
         {
@@ -213,7 +213,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q12",
-      "preMessage": "Setting goals for your diet can guide you towards healthier choices. Let's define those goals.",
+      "preMessage": "Set diet goals. Define choices.",
       "text": "What are your goals regarding diet and nutrition?",
       "options": [
         {
@@ -232,7 +232,7 @@ export const data = {
     },
     {
       "id": "HEALTH_&_LIFESTYLE-q13",
-      "preMessage": "Your commitment to improving physical activity is commendable. Let's find the support that matches your commitment level.",
+      "preMessage": "Commendable commitment. Find support.",
       "text": "How committed are you to improving your physical activity?",
       "options": [
         {
@@ -256,7 +256,7 @@ export const data = {
   "questions": [
     {
       "id": "WORK_CHALLENGES-q1",
-      "preMessage": "Work challenges can impact well-being. Let's narrow down what you're experiencing.",
+      "preMessage": "Work challenges impact well-being.",
       "text": "What challenges at work?",
       "options": [
         {
@@ -275,7 +275,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q2",
-      "preMessage": "A heavy workload can be daunting. Understanding its impact can help us find a way to manage it.",
+      "preMessage": "Heavy workload? Manage it effectively.",
       "text": "How's workload affecting daily life?",
       "options": [
         {
@@ -294,7 +294,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q3",
-      "preMessage": "Navigating relationships at work can be complex. Identifying issues is the first step to improving them.",
+      "preMessage":  "Navigate work relationships. Improve.",
       "text": "Issues with colleagues?",
       "options": [
         {
@@ -313,7 +313,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q4",
-      "preMessage": "Thinking about career growth is important. Let's explore what concerns you have in this area.",
+      "preMessage": "Think about career growth. Explore.",
       "text": "Career growth concerns?",
       "options": [
         {
@@ -332,7 +332,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q5",
-      "preMessage": "The work environment and culture play a big role in job satisfaction. Let's get into the details.",
+      "preMessage": "Work environment matters. Details?",
       "text": "Workplace challenges?",
       "options": [
         {
@@ -351,7 +351,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q6",
-      "preMessage": "Stress from work can affect all aspects of life. Recognizing how often you feel this way is key to addressing it.",
+      "preMessage": "Stress from workload? Recognize it.",
       "text": "How often stressed by workload?",
       "options": [
         {
@@ -370,7 +370,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q7",
-      "preMessage": "Work issues can impact more than just job performance. Understanding this impact can help us find solutions.",
+      "preMessage": "Work issues affect more. Find solutions.",
       "text": "How impact on performance ?",
       "options": [
         {
@@ -389,7 +389,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q8",
-      "preMessage": "Career development is a journey. Pinpointing the support you need can help guide your path forward.",
+      "preMessage": "Career development journey. Support?",
        "text": "Support for career development?",
       "options": [
         {
@@ -408,7 +408,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q9",
-      "preMessage": "Creating a positive workplace is crucial for everyone's well-being. Let's think about what changes could make a difference.",
+      "preMessage": "Positive workplace matters. Changes?",
        "text": "Changes for better workplace?",
       "options": [
         {
@@ -427,7 +427,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q10",
-      "preMessage": "Managing workload effectively can significantly reduce stress. Let's explore what might help you.",
+      "preMessage": "Manage workload. Explore solutions.",
        "text": "Help for managing workload?",
       "options": [
         {
@@ -446,7 +446,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q11",
-      "preMessage": "Improving work relationships can enhance job satisfaction and performance. Let's find the right resources for you.",
+      "preMessage": "Improve relations. Find resources.",
       "text": "Resources for better relationships?",
       "options": [
         {
@@ -465,8 +465,8 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q12",
-      "preMessage": "Commitment to your career development is a significant step. Identifying your level of commitment helps us tailor the support.",
-      "text": "Commitment to career development?",
+      "preMessage":  "Commit to career development.",
+      "text": "Commitment to career development How mutch?",
       "options": [
         {
           "text": "Very committed",
@@ -484,7 +484,7 @@ export const data = {
     },
     {
       "id": "WORK_CHALLENGES-q13",
-      "preMessage": "Taking steps to address workplace issues is brave. Reflecting on your actions so far can help guide us to next steps.",
+      "preMessage": "Address workplace issues. Reflect actions.",
       "text": "Steps taken for workplace issues?",
       "options": [
         {
@@ -509,7 +509,7 @@ export const data = {
   "questions": [
     {
       "id": "STUDIES-q1",
-      "preMessage": "Feeling swamped by studies is something many students experience. Let's pinpoint the main source of your stress.",
+      "preMessage": "Studies overwhelming? Identify stress.",
       "text": "What's overwhelming you most in studies?",
       "options": [
         {
@@ -528,7 +528,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q2",
-      "preMessage": "A heavy workload can certainly stretch your limits. Let's explore how it's impacting your routine.",
+      "preMessage": "Heavy workload? Explore impact.",
       "text": "How does workload affect your routine?",
       "options": [
         {
@@ -547,7 +547,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q3",
-      "preMessage": "Exam challenges are tough but surmountable. Identifying your hurdles is the first step towards overcoming them.",
+      "preMessage": "Exam challenges? Identify hurdles.",
       "text": "Challenges with exams?",
       "options": [
         {
@@ -566,7 +566,7 @@ export const data = {
     },
       {
       "id": "STUDIES-q4",
-      "preMessage": "Juggling studies and life's other duties is no small feat. Let's look at what's keeping the scales tipped.",
+      "preMessage": "Juggling studies and life? Obstacles?",
       "text": "Obstacles in balancing?",
       "options": [
         {
@@ -585,7 +585,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q5",
-      "preMessage": "Connecting with course material is crucial for academic success. Let's delve into the difficulties you're facing.",
+      "preMessage": "Course material matters. Difficulties?",
       "text": "Difficulties with course material?",
       "options": [
         {
@@ -604,7 +604,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q6",
-      "preMessage": "Feeling overwhelmed is a sign it's time for some changes. Let's see how frequent this feeling occurs.",
+      "preMessage": "Feeling overwhelmed? How frequent?",
       "text": "How often do you feel overwhelmed?",
       "options": [
         {
@@ -623,7 +623,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q7",
-      "preMessage": "Improving exam performance starts with finding the right strategies. Let's explore what you've tried.",
+      "preMessage":  "Improve exam performance. Strategies?",
       "text": "Strategies to improve exams?",
       "options": [
         {
@@ -642,7 +642,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q8",
-      "preMessage": "Seeking a better balance is key to your well-being. Let's identify supports that could ease the juggle.",
+      "preMessage": "Balance study-life. Identify supports.",
       "text": "Support for study-life balance?",
        "options": [
         {
@@ -661,7 +661,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q9",
-      "preMessage": "Enhancing your learning experience can reignite your academic passion. Let's find out how.",
+      "preMessage":  "Enhance learning. How to improve?",
       "text": "How to improve learning experience?",
       "options": [
         {
@@ -680,7 +680,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q10",
-      "preMessage": "The right resources can make managing coursework feel more manageable. Let's look at options.",
+      "preMessage": "Manage coursework. Explore resources.",
       "text": "Resources to manage coursework?",
       "options": [
         {
@@ -699,7 +699,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q11",
-      "preMessage": "Finding effective study methods can transform your exam prep. Let's consider some supportive strategies.",
+      "preMessage": "Effective study methods. Support?",
       "text": "Support for exam preparation?",
       "options": [
         {
@@ -718,7 +718,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q12",
-      "preMessage": "You've made strides in balancing your studies and life. Let's explore what strategies have been effective for you.",
+      "preMessage":  "Balance studies and life. Strategies?",
       "text": "Effective strategies for study-life balance?",
       "options": [
         {
@@ -737,7 +737,7 @@ export const data = {
     },
     {
       "id": "STUDIES-q13",
-      "preMessage": "A supportive learning environment is key to academic success. Let's identify what additional support could look like for you.",
+      "preMessage": "Supportive learning. Identify help.",
       "text": "Additional support for learning?",
       "options": [
         {
