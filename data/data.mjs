@@ -540,7 +540,7 @@ export const data = {
           "nextQuestionId": "STUDIES-q6"
         },
         {
-          "text": "No time for activities",
+          "text": "Limited time",
           "nextQuestionId": "STUDIES-q6"
         }
       ]
